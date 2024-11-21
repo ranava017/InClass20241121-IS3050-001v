@@ -7,5 +7,10 @@ namespace InClass20241121_IS3050_001
 {
     public class HelloWorld
     {
+        public HelloWorld()
+        {
+            Console.WriteLine("OSU will crush IU, This is ranava");
+        }
     }
+}
 }
